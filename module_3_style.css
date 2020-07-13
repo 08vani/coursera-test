@@ -1,0 +1,60 @@
+body{
+	font-size: 16px;
+	color: #fff;
+	background-color: #6f42c1;
+	font-family: 'Oxygen', sans-serif;
+}
+/* HEADER */
+#nav-id 
+{
+	background-color: #ffc107;
+}
+
+#brand {
+	color: #dc3545;
+	font-weight: bold;
+	font-size: 2em;
+	margin: 10px;
+}
+#button-toggle
+ {
+ 	border: 2px solid #dc3545;
+ }
+
+#nav-list {
+	margin-top: 10px;
+}
+ #nav-list a {
+ 	color:#dc3545;
+ 	text-align: center;
+ 	margin: 10px;
+ 	font-weight: bold;
+ 	font-style: italic;
+ }
+#nav-list a:hover {
+	background: #E7E7E7;
+}
+/* END OF HEADER */
+/* Home Page */
+#title {
+	color: #ffc107;
+	margin-top: 20px;
+	font-weight: bold;
+}
+#big-para
+{
+	height: 1000px;
+	color: #dc3545;
+	margin-bottom:  20px;
+	background-color: #f8f9fa;
+	border: 10px solid #343a40;
+	padding-top: 10px;
+}
+ #big-para h4 {
+ 	font-style: italic;
+ 	font-size: 2em;
+ 	color: #dc3545;
+
+ }
+
+ /*End of Homepage */
